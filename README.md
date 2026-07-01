@@ -57,3 +57,4 @@ if you If you encounter any issues / bugs with the tools, would like to suggest 
 
 - [Speedrun.com](https://www.speedrun.com/Indigo_Park_Chapter_1) page: Leaderboard for Indigo Park Chapter 1 v1.02 **AND** v1.1
 - [IPTAS](https://github.com/KidoAT12/IPTAS) (Indigo Park TAS Tool): A Tool for helping create Tool-Assisted Speedruns for Indigo Park Chapter 1 v1.02 and v1.1
+- [Speedrunning Discord](https://discord.gg/8yCW4YTnpV) : Community Speedrunning Discord for Indigo Park

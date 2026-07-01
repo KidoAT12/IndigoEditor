@@ -21,9 +21,6 @@ If you have done that, great! If not, v1.1 is just as great, if not better for m
 
 <h1 align="center">How To Use IndigoEditor </h1>
 
-<h2 align="center">!!Important!! </h2>
-
-<h3 align="center">For every update that comes out, you NEED to delete IndigoEditor from your Indigo Park Mods Folder so the new update will work. IT WILL NOT WORK IF YOU DO NOT DO THIS, IT WILL NOT REPLACE IT!</h3>
 
 ## Getting Started
 
@@ -46,14 +43,8 @@ Now that you have installed Indigo Park (v1.1 and/or v1.02), and have downloaded
 ---
 <h3 align="center"> FOR EDITOR_SAVE: </h3>
 
-To find your Maps:
+Your Levels folder will show up when you first open IndigoEditor.exe and pick your version. You can rename them to anything you'd like if you don't like what you put in editor_save!
 
-(In Steam, go to the game in your Library: Gear - Manage - Browse Local Files)
-
-once you've done that, go to these directories to find the Levels file, and you can rename your map, or delete it, or send it to other people!
-
--    v1.02 : \Raccoon\Binaries\Win64\Mods\IndigoEditor\Scripts
--    v1.1 : \RaccoonCh1\Binaries\Win64\Mods\IndigoEditor\Scripts
 ----
 
 ## Providing Feedback

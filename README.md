@@ -21,6 +21,10 @@ If you have done that, great! If not, v1.1 is just as great, if not better for m
 
 <h1 align="center">How To Use IndigoEditor </h1>
 
+<h2 align="center">!!Important!! </h2>
+
+<h3 align="center">For every update that comes out, you NEED to delete IndigoEditor from your Indigo Park Mods Folder so the new update will work. IT WILL NOT WORK IF YOU DO NOT DO THIS, IT WILL NOT REPLACE IT!</h3>
+
 ## Getting Started
 
 Now that you have installed Indigo Park (v1.1 and/or v1.02), and have downloaded IndigoEditor and zDEV ue4ss, you are all set for running it!

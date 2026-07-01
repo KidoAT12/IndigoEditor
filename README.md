@@ -33,7 +33,8 @@ Now that you have installed Indigo Park (v1.1 and/or v1.02), and have downloaded
 
 ## Controls/Commands
 
-The only control you need to know (which is already in this game), is **Left Click**. Press on an object to move it!
+- **Left Click** : to pick up objects and move them around.
+- **R** : while holding R, you can rotate the objects with the **Arrow Keys** (movement is disabled when holding R)
 
 ****Once you have downloaded zDEV ue4ss, an in-game console will show up by pressing **F10**. From there you can input these commands:****
 
